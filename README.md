@@ -1,3 +1,3 @@
 # TelegramNSFW-UserScripts-
-User Script to #Greasemonkey plugin
-This script encapsule in a colapsable div to hide multimedia content. 
+User Script to **Greasemonkey** plugin
+This script is for web.telegram.org, making a div collapsible container to hide the multimedia content.
